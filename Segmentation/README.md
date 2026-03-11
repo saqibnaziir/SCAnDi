@@ -1,6 +1,6 @@
 # SCAnDI — Sperm Cell Segmentation
 
-Pseudo–ground-truth instance segmentation pipeline for **sperm cells** from red-stained microscopy images (Christmas Tree / nuclear fast red). Sperm cell only.
+Cell segmentation pipeline for **sperm cells** from red-stained microscopy images (Christmas Tree / nuclear fast red). Sperm cell only.
 
 ---
 
